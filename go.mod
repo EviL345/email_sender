@@ -1,4 +1,4 @@
-module email_sender
+module github.com/EviL345/email_sender
 
 go 1.23.1
 
