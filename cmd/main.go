@@ -2,8 +2,8 @@ package main
 
 import (
 	"context"
-	desc "email_sender/pkg/send_email_v1"
 	"fmt"
+	desc "github.com/EviL345/email_sender/pkg/send_email_v1"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
 	"google.golang.org/protobuf/types/known/emptypb"
